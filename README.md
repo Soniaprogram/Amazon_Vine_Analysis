@@ -1,12 +1,12 @@
 # Amazon_Vine_Analysis
 
-## Overview of the analysis
-
-I have been tasked with analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their producs. Using my knowledge of PySpark, I determined if there is any bias towards reviews that were written as a part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.
-
 Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
 Deliverable 3: A Written Report on the Analysis (README.md)
+
+## Overview of the analysis
+
+I have been tasked with analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their producs. Using my knowledge of PySpark, I determined if there is any bias towards reviews that were written as a part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
