@@ -14,7 +14,11 @@ I have been tasked with analyzing Amazon reviews written by members of the paid 
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
+There were 94 Vine reviews (paid). There were __ non-Vine reviews (unpaid).
+
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+There were There were 15,663 non-Vine 5-star reviews (unpaid). 
+
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ## Summary
