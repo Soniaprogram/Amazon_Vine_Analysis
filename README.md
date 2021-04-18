@@ -3,6 +3,10 @@
 ## Overview of the analysis
 Explain the purpose of this analysis.
 
+Deliverable 1: Perform ETL on Amazon Product Reviews
+Deliverable 2: Determine Bias of Vine Reviews
+Deliverable 3: A Written Report on the Analysis (README.md)
+
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
 
