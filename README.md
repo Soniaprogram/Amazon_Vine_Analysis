@@ -16,7 +16,7 @@ I have been tasked with analyzing Amazon reviews written by members of the paid 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-There were 94 Vine (paid) reviews. There were 40,471 non-Vine (unpaid) reviews.
+  There were 94 Vine (paid) reviews. There were 40,471 non-Vine (unpaid) reviews.
 
 ![img1](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/1paidnumber.PNG)
 ![img2](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/1unpaidno.PNG)
@@ -24,14 +24,14 @@ There were 94 Vine (paid) reviews. There were 40,471 non-Vine (unpaid) reviews.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-There were 48 Vine (paid) 5-star reviews. There were 15,663 non-Vine (unpaid) 5-star reviews. 
+  There were 48 Vine (paid) 5-star reviews. There were 15,663 non-Vine (unpaid) 5-star reviews. 
 
 ![img3](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/2fivestarpaid.PNG)
 ![img4](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/2fivestarunpaid.PNG)
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-38.7% of non-Vine (unpaid) reviews were 5-stars. 51.1% of Vine (paid) reviews were 5-stars. 
+  38.7% of non-Vine (unpaid) reviews were 5-stars. 51.1% of Vine (paid) reviews were 5-stars. 
 
 ![img5](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/3fivestarpaidpercent.PNG)
 ![img6](https://github.com/Soniaprogram/Amazon_Vine_Analysis/blob/main/images/3fivestarunpaidpercent.PNG)
@@ -39,3 +39,5 @@ There were 48 Vine (paid) 5-star reviews. There were 15,663 non-Vine (unpaid) 5-
 
 ## Summary
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+
