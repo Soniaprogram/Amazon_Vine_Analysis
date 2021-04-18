@@ -2,6 +2,7 @@
 
 ## Overview of the analysis
 Explain the purpose of this analysis.
+Using my knowledge of PySpark, I determined if there is any bias towards reviews that were written as a part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
