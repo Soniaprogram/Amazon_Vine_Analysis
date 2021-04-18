@@ -9,7 +9,7 @@ Deliverable 3: A Written Report on the Analysis (README.md)
 
 ## Overview of the analysis
 
-I have been tasked with analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their producs. Using my knowledge of PySpark, I determined if there is any bias towards reviews that were written as a part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+I have been tasked with analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Using my knowledge of PySpark, I determined if there is any bias towards reviews that were written as a part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 
 ## Results
@@ -40,4 +40,5 @@ I have been tasked with analyzing Amazon reviews written by members of the paid 
 ## Summary
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-
+It seems as though 51.1% of the Vine reviews were 5-stars which is greater than the non-Vine 5-star review percentage of 38.7%. Paid members seemed more likely to provide a 5-star review, which also might explain why they purchased a paid membership in the first place. 
+In order to further explore this bias, I would look into how long the Vine users have been members of this service vs how long the non-Vine users have been members of this service as well. 
