@@ -38,7 +38,6 @@ I have been tasked with analyzing Amazon reviews written by members of the paid 
 
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 It seems as though 51.1% of the Vine reviews were 5-stars which is greater than the non-Vine 5-star review percentage of 38.7%. Paid members seemed more likely to provide a 5-star review, which also might explain why they purchased a paid membership in the first place. 
-In order to further explore this bias, I would look into how long the Vine users have been members of this service vs how long the non-Vine users have been members of this service as well. It would also be beneficial to look at the average/mean number of stars for both Vine and non-Vine reviews.
+In order to further explore this bias, I would look into how long the Vine users have been members of this service vs how long the non-Vine users have been members of this service as well. It would also be beneficial to use the dataset to look at the average/mean number of stars for both Vine and non-Vine reviews.
